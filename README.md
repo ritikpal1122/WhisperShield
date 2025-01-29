@@ -1,4 +1,4 @@
-<h3 align="center">Whisper Report </h3>
+<h3 align="center">Whisper Shield </h3>
 
 <div align="center">
   A secure platform for anonymous incident reporting
