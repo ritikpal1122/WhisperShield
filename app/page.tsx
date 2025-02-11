@@ -1,7 +1,4 @@
-import Link from "next/link";
-
 import {
-  ArrowRight,
   Lock,
   Zap,
   MessageCircle,
@@ -9,7 +6,6 @@ import {
   Users,
   BarChart,
 } from "lucide-react";
-import { motion } from "framer-motion";
 import { AnimatedSection } from "@/components/AnimatedSection";
 import { TestimonialCard } from "@/components/TestimonialCard";
 import { HeroSection } from "@/components/HeroSection";
